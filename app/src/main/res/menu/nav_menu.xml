@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_menu"
+        android:title="Home"
+        android:checked="true"/>
+
+    <item
+        android:id="@+id/nav_editProfile"
+        android:icon="@drawable/ic_pen"
+        android:title="Edit Profile"/>
+
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_notifications_active"
+        android:title="Notifications"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <group>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share"/>
+            </group>
+
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+        <group>
+            <item
+                android:id="@+id/nav_addMembers"
+                android:icon="@drawable/ic_remove_person"
+                android:title="Add Members"/>
+            <item
+                android:id="@+id/nav_removeMembers"
+                android:icon="@drawable/ic_add_person"
+                android:title="Remove Members"/>
+            <item
+                android:id="@+id/nav_termsAndConditions"
+                android:icon="@drawable/ic_i_button"
+                android:title="Terms and Conditions"/>
+            <item
+                android:id="@+id/nav_signOut"
+                android:icon="@drawable/ic_logout"
+                android:title="SignOut"/>
+        </group>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999484014484",
+    "project_id": "family-spotter",
+    "storage_bucket": "family-spotter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999484014484:android:7ddfabf58133a0fb521981",
+        "android_client_info": {
+          "package_name": "com.mohitbhavsar.familyspotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999484014484-nsq7u344n4b4bokckq2h5ukthcs8c94u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXPgBzAVrduk_5olRnDaED7TwsMdBA18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999484014484-nsq7u344n4b4bokckq2h5ukthcs8c94u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
