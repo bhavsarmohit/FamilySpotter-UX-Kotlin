@@ -38,11 +38,11 @@
         <group>
             <item
                 android:id="@+id/nav_addMembers"
-                android:icon="@drawable/ic_remove_person"
+                android:icon="@drawable/ic_add_person"
                 android:title="Add Members"/>
             <item
                 android:id="@+id/nav_removeMembers"
-                android:icon="@drawable/ic_add_person"
+                android:icon="@drawable/ic_remove_person"
                 android:title="Remove Members"/>
             <item
                 android:id="@+id/nav_termsAndConditions"

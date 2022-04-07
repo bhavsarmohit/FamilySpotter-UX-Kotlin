@@ -59,9 +59,6 @@ dependencies {
     implementation 'com.mikhaellopez:circularimageview:4.3.0'
 
     // bottom navbar
-//    implementation 'com.gauravk.bubblenavigation:bubblenavigation:1.0.7'
-//    implementation  'io.ak1:bubbletabbar:1.0.8'
-
     implementation 'com.github.ismaeldivita:chip-navigation-bar:1.4.0'
 
 }
