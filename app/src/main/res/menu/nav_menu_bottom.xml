@@ -1,15 +1,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/profile"
-        android:icon="@drawable/person_icon"
+        android:icon="@drawable/ic_person"
         android:title="Profile"
-        android:checked="true"
         android:color="@color/icon_color"/>
 
     <item
         android:id="@+id/home"
         android:icon="@drawable/ic_home"
         android:title="Home"
+        android:checked="true"
         android:color="@color/icon_color"/>
 
     <item

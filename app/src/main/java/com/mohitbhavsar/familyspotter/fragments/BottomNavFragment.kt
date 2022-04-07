@@ -69,6 +69,8 @@ class HomeScreen : Fragment(R.layout.fragment_bottom_nav) {
         // Inflate the layout for this fragment
         _binding = FragmentBottomNavBinding.inflate(inflater, container, false)
 
+//        set default selected bottom bubble chip nav
+        binding.chipnavBottom.setItemSelected(R.id.home, true)
 
 //        binding.tvTest.setText("Mohit Bhavsar")
 

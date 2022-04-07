@@ -55,7 +55,7 @@
 
                     app:endIconMode="clear_text"
                     app:startIconContentDescription="OTP"
-                    app:startIconDrawable="@drawable/person_icon">
+                    app:startIconDrawable="@drawable/ic_person">
 
                     <com.google.android.material.textfield.TextInputEditText
                         android:id="@+id/et_name"
